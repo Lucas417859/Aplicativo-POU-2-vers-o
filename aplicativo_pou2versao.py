@@ -9,7 +9,7 @@ from groq import Groq
 
 # ========= CONFIGURAÇÕES INICIAIS ==========
 st.set_page_config(
-    page_title="POU Platinum - Almoxarifado Inteligente", 
+    page_title="Aplicativo POU - Soluções Tecnológicas para Almoxarifados.", 
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -1180,4 +1180,5 @@ st.markdown(
     "🏭 <b>POU PLATINUM</b> - Almoxarifado Inteligente © 2025"
     "</div>", 
     unsafe_allow_html=True
+
 )
